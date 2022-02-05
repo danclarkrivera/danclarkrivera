@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dcrivera123
+- 👀 I’m interested in Computer Security, Information Protection, and Cooking!
+- 🌱 I’m currently learning Cybersecurity and Information Assurance
+- 💞️ I’m looking to collaborate on security projects, procedures, and operations
+- 📫 You can reach me at dcrivera123@hotmail.com
