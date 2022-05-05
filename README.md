@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dcrivera123
 - 👀 I’m interested in Computer Security, Technical Solutions, and Cooking!
-- 🌱 I’m currently learning Cybersecurity and Information Assurance
+- 🌱 I’m currently learning Cybersecurity and Cloud
 - 💞️ I’m looking to collaborate on security projects, procedures, and operations
-- 📫 You can reach me at dcrivera123@hotmail.com
+- 📫 You can reach me at danclarkrivera@outlook.com
